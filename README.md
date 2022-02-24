@@ -2,9 +2,14 @@
 
 ## Repositório de tutoriais e referências de mulheres tech inspiradoras.
 
+### Posts:
+[Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/)
+
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) 
+
 <br><br>
+
 ### Repositórios de organizações:
 [WoMakersCode](https://github.com/WoMakersCode)
 
