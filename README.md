@@ -1,6 +1,6 @@
 # Mulheres na Tecnologia
 
-## Repositório de tutoriais e referências de mulheres tech
+## Repositório de tutoriais e referências de mulheres tech inspiradoras.
 
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) 
