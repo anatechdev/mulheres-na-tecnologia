@@ -5,10 +5,12 @@
 ### Posts:
 [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/)
 
+<br>
+
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) 
 
-<br><br>
+<br>
 
 ### Repositórios de organizações:
 [WoMakersCode](https://github.com/WoMakersCode)
