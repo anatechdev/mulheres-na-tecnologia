@@ -1,6 +1,6 @@
 # Mulheres na Tecnologia
 
-## Repositório de tutoriais e referências de mulheres tech inspiradoras.
+## Repositório de referências e conteúdos de mulheres tech inspiradoras.
 
 ### Posts:
 [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/)
@@ -13,7 +13,7 @@
 <br>
 
 ### Repositórios de organizações:
-[WoMakersCode](https://github.com/WoMakersCode)
+[WoMakersCode](https://github.com/WoMakersCode) <br>
 [Cloud Girls](https://github.com/cloudgirlsin)
 
 <br>
