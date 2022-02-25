@@ -24,6 +24,7 @@
 
 ### Repositórios de organizações:
 [WoMakersCode](https://github.com/WoMakersCode) <br>
+[PrograMaria](https://github.com/programaria)
 [Cloud Girls](https://github.com/cloudgirlsin)
 
 <br>
