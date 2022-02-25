@@ -7,8 +7,6 @@
 
 `Hello World, Mulheres Tech!`
 
-
-```markdown
 [Repositório github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
-```
+
 
