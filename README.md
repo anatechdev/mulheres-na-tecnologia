@@ -18,6 +18,7 @@
 
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) 
+[Brazilians in Tech](https://github.com/braziliansintech)
 
 <br>
 
