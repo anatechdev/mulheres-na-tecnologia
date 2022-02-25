@@ -10,6 +10,9 @@
 
 <br>
 
+### Repositórios de Desenvolvedoras
+[O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs)
+
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) 
 
