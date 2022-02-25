@@ -11,6 +11,7 @@
 <br>
 
 ### Repositórios de Desenvolvedoras
+[Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs)
 
 <br>
