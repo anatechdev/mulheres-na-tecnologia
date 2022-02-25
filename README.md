@@ -18,13 +18,13 @@
 
 ### Comunidades:
 [Links da comunidade Feministech](https://github.com/feministech/site-de-links) <br>
-[Brazilians in Tech](https://github.com/braziliansintech)
 
 <br>
 
 ### Repositórios de organizações:
 [WoMakersCode](https://github.com/WoMakersCode) <br>
 [PrograMaria](https://github.com/programaria) <br>
+[Brazilians in Tech](https://github.com/braziliansintech) <br>
 [Cloud Girls](https://github.com/cloudgirlsin)
 
 <br>
