@@ -7,6 +7,6 @@
 
 `Hello World, Mulheres Tech!`
 
-[Repositório github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
+Repositório [github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
 
 
