@@ -16,13 +16,13 @@
 
 <br>
 
-### Comunidades:
+### Repositórios de Comunidades:
 [Comunidade Feministech](https://github.com/feministech) <br>
 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
 
 <br>
 
-### Repositórios de organizações:
+### Repositórios de Organizações:
 [WoMakersCode](https://github.com/WoMakersCode) <br>
 [PrograMaria](https://github.com/programaria) <br>
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
