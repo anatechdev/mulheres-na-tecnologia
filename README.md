@@ -5,25 +5,25 @@
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Posts no Instagram @ana.tech.dev
 
-### Posts:
+### Posts
 [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
 [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
 
 <br>
 
-### Repositórios de Desenvolvedoras:
+### Repositórios de Desenvolvedoras
 [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs)
 
 <br>
 
-### Repositórios de Comunidades:
+### Repositórios de Comunidades
 [Comunidade Feministech](https://github.com/feministech) <br>
 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
 
 <br>
 
-### Repositórios de Organizações:
+### Repositórios de Organizações
 [WoMakersCode](https://github.com/WoMakersCode) <br>
 [PrograMaria](https://github.com/programaria) <br>
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
