@@ -28,6 +28,10 @@
 [PrograMaria](https://github.com/programaria) <br>
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
 [Cloud Girls](https://github.com/cloudgirlsin)
+<br>
+
+#### Contribuições
+Enviar pull requests para manter o repo atualizado. 
 
 <br>
 __<br>
