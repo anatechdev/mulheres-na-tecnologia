@@ -27,10 +27,10 @@
 [WoMakersCode](https://github.com/WoMakersCode) <br>
 [PrograMaria](https://github.com/programaria) <br>
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
-[Cloud Girls](https://github.com/cloudgirlsin)
+[Cloud Girls](https://github.com/cloudgirlsin) <br>
 <br>
 
-#### Contribuições
+### Contribuições
 Enviar pull requests para manter o repo atualizado. 
 
 <br>
