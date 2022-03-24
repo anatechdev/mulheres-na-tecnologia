@@ -36,6 +36,12 @@
 [Elas Programam](https://github.com/ElasProgramam) <br> 
 <br>
 
+### DEV Community dev.to
+[WoMakersCode](https://dev.to/womakerscode) <br> 
+[Feministech](https://dev.to/feministech) <br> 
+
+<br>
+
 ### Contribuições
 Enviar pull requests para manter o repo atualizado. 
 
