@@ -8,6 +8,9 @@
 ### Posts
 [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
 [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
+[Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
+[O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
+[Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
 
 <br>
 
