@@ -32,7 +32,8 @@
 [WoMakersCode](https://github.com/WoMakersCode) <br>
 [PrograMaria](https://github.com/programaria) <br>
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
-[Cloud Girls](https://github.com/cloudgirlsin) <br>
+[Cloud Girls](https://github.com/cloudgirlsin) <br> 
+[Elas Programam](https://github.com/ElasProgramam) <br> 
 <br>
 
 ### Contribuições
