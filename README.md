@@ -42,6 +42,11 @@
 
 <br>
 
+### Materiais de estudo
+[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br> 
+
+<br>
+
 ### Contribuições
 Enviar pull requests para manter o repo atualizado. 
 
