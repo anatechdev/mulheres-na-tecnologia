@@ -38,18 +38,18 @@
 [AnitaB.org Open Source](https://github.com/anitab-org) <br>
 <br>
 
+### Materiais de estudo
+[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br> 
+
+<br>
+
 ### DEV Community dev.to
 [WoMakersCode](https://dev.to/womakerscode) <br> 
 [Feministech](https://dev.to/feministech) <br> 
 
 <br>
 
-### Materiais de estudo
-[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br> 
-
-<br>
-
-### Contribuições
+#### Contribuições
 Enviar pull requests para manter o repo atualizado. 
 
 <br>
