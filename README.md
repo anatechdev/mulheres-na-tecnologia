@@ -50,7 +50,7 @@
 <br>
 
 #### Contribuições
-Enviar pull requests para manter o repo atualizado. 
+Envie pull requests e contribua para manter o repo atualizado. 
 
 <br>
 __<br>
