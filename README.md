@@ -46,6 +46,7 @@
 ### DEV Community dev.to
 [WoMakersCode](https://dev.to/womakerscode) <br> 
 [Feministech](https://dev.to/feministech) <br> 
+[Abacatinhos.dev é um grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos)
 
 <br>
 
