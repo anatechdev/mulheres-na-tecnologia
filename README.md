@@ -25,7 +25,7 @@
 [Comunidade Feministech](https://github.com/feministech) <br>
 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
-[Abacatinhos.dev é um grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
+[Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
 [Start Coding](https://github.com/startcodingstaff) <br>
 
 <br>
