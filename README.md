@@ -42,6 +42,12 @@
 
 <br>
 
+### Artigos
+[27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
+[18 Comunidades de programação para mulheres devs por Laura Loenert](https://community.revelo.io/18-comunidades-de-programacao-para-mulheres-devs/)
+
+<br>
+
 ### Materiais de estudo
 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
 
