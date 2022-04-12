@@ -10,15 +10,16 @@
 [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
 [Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 [O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
-[Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
+[Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) 
 
 <br>
 
 ### Repositórios de Desenvolvedoras
 [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
-[Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
-[Transchange por lissaferreira](https://github.com/lissaferreira/transchange)
+[100 dias de eveolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
+[Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
+[Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
 
 <br>
 
@@ -27,7 +28,7 @@
 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
-[Start Coding](https://github.com/startcodingstaff) <br>
+[Start Coding](https://github.com/startcodingstaff) 
 
 <br>
 
@@ -37,17 +38,18 @@
 [Brazilians in Tech](https://github.com/braziliansintech) <br>
 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
 [Elas Programam](https://github.com/ElasProgramam) <br> 
-[AnitaB.org Open Source](https://github.com/anitab-org) <br>
+[AnitaB.org Open Source](https://github.com/anitab-org) 
+
 <br>
 
 ### Materiais de estudo
-[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br> 
+[Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
 
 <br>
 
 ### DEV Community dev.to
 [WoMakersCode](https://dev.to/womakerscode) <br> 
-[Feministech](https://dev.to/feministech) <br> 
+[Feministech](https://dev.to/feministech) 
 
 <br>
 
