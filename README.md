@@ -12,8 +12,6 @@
 ⭐ [O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 ⭐ [Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) 
 
-<br>
-
 ### Repositórios de Desenvolvedoras
 ⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
@@ -21,43 +19,35 @@
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
 
-<br>
-
 ### Repositórios de Comunidades
-⭐[Comunidade Feministech](https://github.com/feministech) <br>
-⭐[Compiladoras de Cafeína](https://github.com/compiladoras) <br>
-⭐[Mulheres em Dados](https://github.com/mulheresemdados) <br> 
-⭐[Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
-⭐[Start Coding](https://github.com/startcodingstaff) 
-
-<br>
+⭐ [Comunidade Feministech](https://github.com/feministech) <br>
+⭐ [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
+⭐ [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
+⭐ [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
+⭐ [Start Coding](https://github.com/startcodingstaff) 
 
 ### Repositórios de Organizações
-⭐[WoMakersCode](https://github.com/WoMakersCode) <br>
-⭐[PrograMaria](https://github.com/programaria) <br>
-⭐[Brazilians in Tech](https://github.com/braziliansintech) <br>
-⭐[Cloud Girls](https://github.com/cloudgirlsin) <br> 
-⭐[Elas Programam](https://github.com/ElasProgramam) <br> 
-⭐[AnitaB.org Open Source](https://github.com/anitab-org) 
+⭐ [WoMakersCode](https://github.com/WoMakersCode) <br>
+⭐ [PrograMaria](https://github.com/programaria) <br>
+⭐ [Brazilians in Tech](https://github.com/braziliansintech) <br>
+⭐ [Cloud Girls](https://github.com/cloudgirlsin) <br> 
+⭐ [Elas Programam](https://github.com/ElasProgramam) <br> 
+⭐ [AnitaB.org Open Source](https://github.com/anitab-org) 
 
-<br>
 
 ### Artigos
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 💻 [18 Comunidades de programação para mulheres devs por Laura Loenert](https://community.revelo.io/18-comunidades-de-programacao-para-mulheres-devs/)
 
-<br>
 
 ### Materiais de estudo
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
 
-<br>
 
 ### DEV Community (dev.to)
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
 💻 [Feministech](https://dev.to/feministech) 
 
-<br>
 
 ### Eventos
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
