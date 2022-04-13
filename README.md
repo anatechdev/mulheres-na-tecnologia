@@ -40,6 +40,11 @@
 💻 [18 Comunidades de programação para mulheres devs por Laura Loenert](https://community.revelo.io/18-comunidades-de-programacao-para-mulheres-devs/)
 
 
+### Programas e Formações
+💻 [Mais Mulheres em Tech](https://maismulheres.tech/) <br>
+💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
+
+
 ### Materiais de estudo
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
 
@@ -47,10 +52,6 @@
 ### DEV Community (dev.to)
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
 💻 [Feministech](https://dev.to/feministech) 
-
-
-### Eventos
-💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
 
 <br>
 
