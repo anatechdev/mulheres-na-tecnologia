@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) 
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
 
 ### Repositórios de Desenvolvedoras
 ⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
@@ -18,6 +19,7 @@
 ⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
+
 
 ### Repositórios de Comunidades
 ⭐ [Comunidade Feministech](https://github.com/feministech) <br>
