@@ -21,7 +21,7 @@
 ⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
 
 ### Mulheres Inspiradoras
-⭐ ([Elas Inspiram por Brazilians in Tech](https://braziliansintech.com/elas/) 
+⭐ [Elas Inspiram por Brazilians in Tech](https://braziliansintech.com/elas/) 
 
 ### Repositórios de Comunidades
 💻 [Comunidade Feministech](https://github.com/feministech) <br>
