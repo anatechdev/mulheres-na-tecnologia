@@ -33,7 +33,6 @@
 ### Repositórios de Organizações
 💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
 💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [Brazilians in Tech](https://github.com/braziliansintech) <br>
 💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
 💻 [Elas Programam](https://github.com/ElasProgramam) <br> 
 💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
@@ -45,14 +44,16 @@
 💻 [Mais Mulheres em Tech](https://maismulheres.tech/) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
 
-
 ### Materiais de estudo
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
-
 
 ### DEV Community (dev.to)
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
 💻 [Feministech](https://dev.to/feministech) 
+
+### Oportunidades para Mulheres
+💻 [Dupla Tech](https://duplatech.com/) <br> 
+💻 [Oportunidades Brazilians in Tech](https://duplatech.com/)](https://braziliansintech.com/oportunidades/) <br> 
 
 <br>
 
