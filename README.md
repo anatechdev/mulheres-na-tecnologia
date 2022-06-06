@@ -20,27 +20,26 @@
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
 
+### Mulheres Inspiradoras
+⭐ ([Elas Inspiram por Brazilians in Tech](https://braziliansintech.com/elas/) 
 
 ### Repositórios de Comunidades
-⭐ [Comunidade Feministech](https://github.com/feministech) <br>
-⭐ [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
-⭐ [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
-⭐ [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
-⭐ [Start Coding](https://github.com/startcodingstaff) 
+💻 [Comunidade Feministech](https://github.com/feministech) <br>
+💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
+💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
+💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
+💻 [Start Coding](https://github.com/startcodingstaff) 
 
 ### Repositórios de Organizações
-⭐ [WoMakersCode](https://github.com/WoMakersCode) <br>
-⭐ [PrograMaria](https://github.com/programaria) <br>
-⭐ [Brazilians in Tech](https://github.com/braziliansintech) <br>
-⭐ [Cloud Girls](https://github.com/cloudgirlsin) <br> 
-⭐ [Elas Programam](https://github.com/ElasProgramam) <br> 
-⭐ [AnitaB.org Open Source](https://github.com/anitab-org) 
-
+💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+💻 [PrograMaria](https://github.com/programaria) <br>
+💻 [Brazilians in Tech](https://github.com/braziliansintech) <br>
+💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
+💻 [Elas Programam](https://github.com/ElasProgramam) <br> 
+💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
 
 ### Artigos
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
-💻 [18 Comunidades de programação para mulheres devs por Laura Loenert](https://community.revelo.io/18-comunidades-de-programacao-para-mulheres-devs/)
-
 
 ### Programas e Formações
 💻 [Mais Mulheres em Tech](https://maismulheres.tech/) <br>
