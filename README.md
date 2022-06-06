@@ -53,7 +53,7 @@
 
 ### Oportunidades para Mulheres
 💻 [Dupla Tech](https://duplatech.com/) <br> 
-💻 [Oportunidades Brazilians in Tech](https://duplatech.com/)](https://braziliansintech.com/oportunidades/) <br> 
+💻 [Oportunidades Brazilians in Tech](https://braziliansintech.com/oportunidades/) <br> 
 
 <br>
 
