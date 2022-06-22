@@ -7,7 +7,7 @@
 
 ### Posts
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/Ccd8NGLugsh/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia - Formações, Referências e Eventos](https://www.instagram.com/p/Ccd8NGLugsh/) <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
