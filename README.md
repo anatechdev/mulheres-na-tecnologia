@@ -17,9 +17,9 @@
 ### Repositórios de Desenvolvedoras
 ⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
+⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
 ⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
-⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) 
 
 ### Mulheres Inspiradoras
 ⭐ [Elas Inspiram por Brazilians in Tech](https://braziliansintech.com/elas/) 
