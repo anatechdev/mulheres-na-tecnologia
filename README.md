@@ -59,7 +59,7 @@
 <br>
 
 #### Contribuições
-Envie pull requests e contribua para manter o repo atualizado. 
+Envie pull requests e contribua para manter o repositório atualizado. 
 
 <br>
 __<br>
