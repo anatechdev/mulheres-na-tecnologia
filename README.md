@@ -22,7 +22,7 @@
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
 ### Mulheres Inspiradoras
-⭐ [Elas Inspiram por Brazilians in Tech](https://braziliansintech.com/elas/) 
+⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) 
 
 ### Repositórios de Comunidades
 💻 [Comunidade Feministech](https://github.com/feministech) <br>
@@ -54,7 +54,6 @@
 
 ### Oportunidades para Mulheres
 💻 [Dupla Tech](https://duplatech.com/) <br> 
-💻 [Oportunidades Brazilians in Tech](https://braziliansintech.com/oportunidades/) <br> 
 
 <br>
 
