@@ -42,7 +42,7 @@
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 
 ### Programas e Formações
-💻 [Mais Mulheres em Tech](https://maismulheres.tech/) <br>
+💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
 
 ### Materiais de estudo
