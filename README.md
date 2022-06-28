@@ -41,8 +41,12 @@
 ### Artigos
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 
-### Programas e Formações
+### Iniciativas de capacitação
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
+💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
+💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
+💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
+💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
 
 ### Materiais de estudo
