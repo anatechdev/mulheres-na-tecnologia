@@ -1,6 +1,6 @@
 # Mulheres na Tecnologia
 
-## Repositório com links de referência e conteúdos produzidos por mulheres tech inspiradoras.
+## Repositório com referências e conteúdos produzidos por mulheres tech inspiradoras.
 <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Posts no Instagram @ana.tech.dev
@@ -31,17 +31,11 @@
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
 💻 [Start Coding](https://github.com/startcodingstaff) 
 
-### Repositórios de Organizações
-💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
-💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
-💻 [Elas Programam](https://github.com/ElasProgramam) <br> 
-💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
-
 ### Artigos
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 
 ### Iniciativas de capacitação
+💻 [Elas Programa | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
@@ -49,15 +43,22 @@
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
 
-### Materiais de estudo
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
+### Repositórios de Organizações
+💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+💻 [PrograMaria](https://github.com/programaria) <br>
+💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
+💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
 
 ### DEV Community (dev.to)
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
 💻 [Feministech](https://dev.to/feministech) 
 
+### Materiais de estudo
+💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
+
 ### Oportunidades para Mulheres
 💻 [Dupla Tech](https://duplatech.com/) <br> 
+💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br> 
 
 <br>
 
