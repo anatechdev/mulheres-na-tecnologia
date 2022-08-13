@@ -13,8 +13,8 @@
 ### Repositórios de Desenvolvedoras
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Mulheres no mundo da tecnologia por morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
-⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
+⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
 
 ### Mulheres Inspiradoras
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 
-### Livros 
+### Livros e e-books
 📚 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
 📚 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
 
@@ -45,7 +45,7 @@
 💻 [Start Coding](https://github.com/startcodingstaff) 
 
 ### Iniciativas de capacitação
-💻 [Elas Programa | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
+💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
