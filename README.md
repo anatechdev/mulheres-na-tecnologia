@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia - Formações, Referências e Eventos](https://www.instagram.com/p/Ccd8NGLugsh/) <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 
 ### Repositórios de Desenvolvedoras
 ⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
@@ -25,11 +24,12 @@
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia?](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 
 ### Livros 
-[Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
-[E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
+📚 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+📚 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
 
 ### Cursos
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
@@ -43,7 +43,6 @@
 💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
 💻 [Start Coding](https://github.com/startcodingstaff) 
-
 
 ### Iniciativas de capacitação
 💻 [Elas Programa | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
