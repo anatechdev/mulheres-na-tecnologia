@@ -24,6 +24,19 @@
 ### Mulheres Inspiradoras
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) 
 
+### Artigos
+💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
+
+### Livros 
+[Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner)
+[E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills)
+
+### Cursos
+💻 [Cursos Loiane Groner](https://loiane.training/) <br>
+
+### Palestras
+[Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
+
 ### Repositórios de Comunidades
 💻 [Comunidade Feministech](https://github.com/feministech) <br>
 💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
@@ -31,8 +44,6 @@
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
 💻 [Start Coding](https://github.com/startcodingstaff) 
 
-### Artigos
-💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 
 ### Iniciativas de capacitação
 💻 [Elas Programa | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
