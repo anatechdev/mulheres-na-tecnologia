@@ -15,7 +15,7 @@
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
-⭐ [Aprendendo React - Zero to Hero por glaucia86](https://github.com/glaucia86/aprendendo-react-live) <br>
+⭐ [Currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
 
 ### Mulheres Inspiradoras
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) 
