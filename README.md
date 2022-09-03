@@ -16,7 +16,7 @@
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
-⭐ [21 de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
+⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
 
 ### Mulheres Inspiradoras
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) 
