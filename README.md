@@ -1,6 +1,6 @@
 # Mulheres na Tecnologia
 
-## Repositório com conteúdos produzidos por referências mulheres tech inspiradoras.
+## Conteúdos produzidos por mulheres referências na área tech e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
 <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Posts no Instagram @ana.tech.dev
