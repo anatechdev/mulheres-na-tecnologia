@@ -7,8 +7,8 @@
 
 ### Posts Instagram
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/ChF44dNjqEV/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/CYe-vKLl1_U/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/ChF44dNjqEV/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/Ccd8NGLugsh/) <br>
 
 ### Repositórios de desenvolvedoras
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
@@ -81,7 +81,7 @@
 💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br> 
 
 ### Meus Artigos
-[Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
+💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
 
 <br>
 
