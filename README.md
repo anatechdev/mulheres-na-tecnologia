@@ -14,9 +14,9 @@
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
-⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 ⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
 ⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
+⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
 
 ### Mulheres Inspiradoras
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) 
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como eu faço para perceber a minha evolução? por Morganna Giovanelli for Feministech](https://dev.to/feministech/como-eu-faco-para-perceber-a-minha-evolucao-cob) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad) <br>
 
 ### Podcasts
