@@ -32,23 +32,19 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad) <br>
 
+### Podcasts
+🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
+
 ### Livros e e-books
-📚 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
-📚 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
+📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
 
 ### Cursos
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 
 ### Palestras
 💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
-
-### Repositórios de Comunidades
-💻 [Feministech](https://github.com/feministech) <br>
-💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
-💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
-💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
-💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br> 
-💻 [Start Coding](https://github.com/startcodingstaff) 
 
 ### Iniciativas de capacitação
 💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
@@ -64,6 +60,14 @@
 💻 [PrograMaria](https://github.com/programaria) <br>
 💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
 💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
+
+### Repositórios de Comunidades
+💻 [Feministech](https://github.com/feministech) <br>
+💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br> 
+💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
+💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br> 
+💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br> 
+💻 [Start Coding](https://github.com/startcodingstaff) 
 
 ### DEV Community (dev.to)
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
