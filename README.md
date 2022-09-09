@@ -24,9 +24,6 @@
 ### Artigos Revelo Community
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) 
 
-### Meus Artigos
-💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
-
 ### Artigos Dev Community
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
@@ -34,6 +31,9 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad) <br>
+
+### Meus Artigos
+💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
 
 ### Podcasts
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
