@@ -24,6 +24,9 @@
 ### Artigos
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) 
 
+### Meus Artigos
+💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
+
 ### Dev Community
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
@@ -79,9 +82,6 @@
 ### Oportunidades para Mulheres
 💻 [Dupla Tech](https://duplatech.com/) <br> 
 💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br> 
-
-### Meus Artigos
-💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
 
 <br>
 
