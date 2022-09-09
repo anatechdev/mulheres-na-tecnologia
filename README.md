@@ -36,16 +36,6 @@
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 
-### Livros e e-books
-📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
-📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
-
-### Cursos
-💻 [Cursos Loiane Groner](https://loiane.training/) <br>
-
-### Palestras
-💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
-
 ### Iniciativas de capacitação
 💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
@@ -73,12 +63,25 @@
 💻 [WoMakersCode](https://dev.to/womakerscode) <br> 
 💻 [Feministech](https://dev.to/feministech) 
 
+### Livros e e-books
+📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
+
+### Cursos
+💻 [Cursos Loiane Groner](https://loiane.training/) <br>
+
+### Palestras
+💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
+
 ### Materiais de estudo
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
 
 ### Oportunidades para Mulheres
 💻 [Dupla Tech](https://duplatech.com/) <br> 
 💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br> 
+
+### Meus Artigos
+[Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
 
 <br>
 
