@@ -88,10 +88,12 @@
 ### Cursos
 
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
+💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
 
 ### Palestras
 
 💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
+💻 [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y) <br>
 
 ### MeetUps
 
