@@ -52,8 +52,8 @@
 
 ### Repositórios de Organizações
 💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+💻 [Minas Programam](https://github.com/minasprogramam) <br>
 💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [Cloud Girls](https://github.com/cloudgirlsin) <br> 
 💻 [AnitaB.org Open Source](https://github.com/anitab-org) 
 
 ### Repositórios de Comunidades
@@ -77,6 +77,9 @@
 
 ### Palestras
 💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
+
+### MeetUps
+💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br> 
 
 ### Materiais de estudo
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) 
