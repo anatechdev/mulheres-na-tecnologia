@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/CjLsy0OO-LV/) <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/ChF44dNjqEV/) <br>
 
-### Repositórios de desenvolvedoras
+### Repositórios de Desenvolvedoras
 
 ⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
@@ -48,7 +48,7 @@
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 
-### Iniciativas de capacitação
+### Iniciativas de Capacitação
 
 💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
@@ -74,16 +74,6 @@
 💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
 💻 [Start Coding](https://github.com/startcodingstaff) <br>
 
-### Comunidades
-
-💻 Feministech <br>
-💻 He4rt Delas por He4rt Developers <br>
-
-### DEV Community (dev.to)
-
-💻 [WoMakersCode](https://dev.to/womakerscode) <br>
-💻 [Feministech](https://dev.to/feministech)
-
 ### Livros e e-books
 
 📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
@@ -103,7 +93,17 @@
 
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 
-### Materiais de estudo
+### Comunidades
+
+💻 Feministech <br>
+💻 He4rt Delas por He4rt Developers <br>
+
+### DEV Community (dev.to)
+
+💻 [WoMakersCode](https://dev.to/womakerscode) <br>
+💻 [Feministech](https://dev.to/feministech)
+
+### Materiais de Estudo
 
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
 
