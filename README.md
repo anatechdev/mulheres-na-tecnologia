@@ -68,9 +68,9 @@
 
 ### Repositórios de Comunidades
 
-💻 [Feministech](https://github.com/feministech) <br>
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
 💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
+💻 [Feministech](https://github.com/feministech) <br>
 💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br>
 💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
 💻 [Start Coding](https://github.com/startcodingstaff) <br>
