@@ -57,6 +57,7 @@
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
+💻 [Laboratória](https://www.laboratoria.la/br)
 
 ### Repositórios de Organizações
 
@@ -92,6 +93,7 @@
 ### MeetUps
 
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
+💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
 
 ### Comunidades
 
