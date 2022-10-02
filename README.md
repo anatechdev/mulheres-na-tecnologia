@@ -54,17 +54,17 @@
 💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
-💻 [Laboratória](https://www.laboratoria.la/br)
+💻 [Laboratória](https://www.laboratoria.la/br) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
 ### Repositórios de Organizações
 
-💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+💻 [AnitaB.org Open Source](https://github.com/anitab-org) <br>
 💻 [Minas Programam](https://github.com/minasprogramam) <br>
 💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [AnitaB.org Open Source](https://github.com/anitab-org)
+💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
 
 ### Repositórios de Comunidades
 
