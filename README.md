@@ -1,10 +1,6 @@
 # Mulheres na Tecnologia
 
-## Conteúdos produzidos por mulheres referências na tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
-
-<br>
-
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Posts no Instagram @ana.tech.dev
+## Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
 
 ### Artigos Dev Community
 
@@ -21,11 +17,17 @@
 ### Artigos Revelo Community
 
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
-💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
+💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
+
+### Canais no Youtube sobre Programação
+
+💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
+💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
+💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)
 
 ### Comunidades
 
-💻 Feministech <br>
+💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
 
 ### Cursos
@@ -38,12 +40,20 @@
 💻 [Feministech](https://dev.to/feministech) <br>
 💻 [WoMakersCode](https://dev.to/womakerscode) <br>
 
+### Eventos
+
+💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
+💻 [PrograMaria Summit](https://www.womentechmakers.com/) <br>
+
+### Histórias de Mulheres Inspiradoras
+
+⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
+
 ### Iniciativas de Capacitação
 
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
 💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
-💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
@@ -63,9 +73,9 @@
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
 
-### Mulheres Inspiradoras
+### Mentorias
 
-⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/)
+💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
 
 ### Oportunidades para Mulheres
 
@@ -80,6 +90,7 @@
 ### Podcasts
 
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
+🎧 [Playlist Podcasts Tech para Devs no Spotify | Ana Maria Silva](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
 ### Posts Instagram
@@ -99,12 +110,13 @@
 
 ### Repositórios de Desenvolvedoras
 
-⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
-⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
-⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
-⭐ [GitHub por engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
-⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
-⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
+⭐ [21 dias de código - Desafio Rocketseat por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
+⭐ [100 dias de evolução dev por Lyssa Cavalcanti Backschat | lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
+⭐ [Criando um currículo por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
+⭐ [CSS_Tools por Leticia Coelho e Ana Maria | engenheiracoelho e anamariasilva](https://github.com/engenheiracoelho/CSS_tools) <br>
+⭐ [GitHub por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
+⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
+⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
 ### Repositórios de Organizações
@@ -114,15 +126,15 @@
 💻 [PrograMaria](https://github.com/programaria) <br>
 💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
 
-
 <br>
 
-#### Contribuições
+### Contribuições
 
 Leia o arquivo CONTRIBUTING.md
 
 <br>
 __<br>
 Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a><br>
+<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
 :octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
-:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a>
+:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a><br>
