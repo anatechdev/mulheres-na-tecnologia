@@ -77,8 +77,8 @@
 
 ### Livros e e-books
 
-📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
 📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
+📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
 
 ### Cursos
 
@@ -102,8 +102,8 @@
 
 ### DEV Community (dev.to)
 
+💻 [Feministech](https://dev.to/feministech) <br>
 💻 [WoMakersCode](https://dev.to/womakerscode) <br>
-💻 [Feministech](https://dev.to/feministech)
 
 ### Materiais de Estudo
 
