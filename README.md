@@ -6,31 +6,6 @@
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> Posts no Instagram @ana.tech.dev
 
-### Posts Instagram
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/ChF44dNjqEV/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/CjLsy0OO-LV/) <br>
-
-### Repositórios de Desenvolvedoras
-
-⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
-⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
-⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
-⭐ [GitHub por engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
-⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
-⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
-⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
-
-### Mulheres Inspiradoras
-
-⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/)
-
-### Artigos Revelo Community
-
-💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
-💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
-
 ### Artigos Dev Community
 
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad) <br>
@@ -43,10 +18,25 @@
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [[pt-BR] O mínimo que você precisa saber pra criar conteúdo como dev por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/feministech/o-minimo-que-voce-precisa-saber-pra-criar-conteudo-como-dev-a9) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 
-### Podcasts
+### Artigos Revelo Community
 
-🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
-🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
+💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
+
+### Comunidades
+
+💻 Feministech <br>
+💻 He4rt Delas por He4rt Developers <br>
+
+### Cursos
+
+💻 [Cursos Loiane Groner](https://loiane.training/) <br>
+💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
+
+### DEV Community (dev.to)
+
+💻 [Feministech](https://dev.to/feministech) <br>
+💻 [WoMakersCode](https://dev.to/womakerscode) <br>
 
 ### Iniciativas de Capacitação
 
@@ -59,12 +49,44 @@
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
-### Repositórios de Organizações
+### Livros e e-books
 
-💻 [AnitaB.org Open Source](https://github.com/anitab-org) <br>
-💻 [Minas Programam](https://github.com/minasprogramam) <br>
-💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
+📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+
+### Materiais de Estudo
+
+💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
+
+### MeetUps
+
+💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
+💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
+
+### Mulheres Inspiradoras
+
+⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/)
+
+### Oportunidades para Mulheres
+
+💻 [Dupla Tech](https://duplatech.com/) <br>
+💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br>
+
+### Palestras
+
+💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
+💻 [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y) <br>
+
+### Podcasts
+
+🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
+🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+
+### Posts Instagram
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/ChF44dNjqEV/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/CjLsy0OO-LV/) <br>
 
 ### Repositórios de Comunidades
 
@@ -75,44 +97,23 @@
 💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
 💻 [Start Coding](https://github.com/startcodingstaff) <br>
 
-### Livros e e-books
+### Repositórios de Desenvolvedoras
 
-📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
-📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
+⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
+⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
+⭐ [GitHub por engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
+⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
+⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
+⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
-### Cursos
+### Repositórios de Organizações
 
-💻 [Cursos Loiane Groner](https://loiane.training/) <br>
-💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
+💻 [AnitaB.org Open Source](https://github.com/anitab-org) <br>
+💻 [Minas Programam](https://github.com/minasprogramam) <br>
+💻 [PrograMaria](https://github.com/programaria) <br>
+💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
 
-### Palestras
-
-💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
-💻 [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y) <br>
-
-### MeetUps
-
-💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
-💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
-
-### Comunidades
-
-💻 Feministech <br>
-💻 He4rt Delas por He4rt Developers <br>
-
-### DEV Community (dev.to)
-
-💻 [Feministech](https://dev.to/feministech) <br>
-💻 [WoMakersCode](https://dev.to/womakerscode) <br>
-
-### Materiais de Estudo
-
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
-
-### Oportunidades para Mulheres
-
-💻 [Dupla Tech](https://duplatech.com/) <br>
-💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br>
 
 <br>
 
