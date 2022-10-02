@@ -45,19 +45,19 @@
 
 ### Podcasts
 
-🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
+🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
 ### Iniciativas de Capacitação
 
-💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
-💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
+💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
-💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
-💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br)
+💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
+💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
+💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
 ### Repositórios de Organizações
 
