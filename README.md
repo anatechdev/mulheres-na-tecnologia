@@ -30,10 +30,15 @@
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
 
-### Cursos
+### Cursos de Desenvolvedoras
 
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
+💻 [Curso de lógica de programação com python | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
+
+### Cursos de Instituições
+
+💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
 
 ### DEV Community (dev.to)
 
@@ -43,21 +48,20 @@
 ### Eventos
 
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
-💻 [PrograMaria Summit](https://www.womentechmakers.com/) <br>
+💻 [PrograMaria Summit](https://vamosjuntes.programaria.org/summit2022) <br>
 
-### Histórias de Mulheres Inspiradoras
-
-⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
-
-### Iniciativas de Capacitação
+### Formações, Cursos e Bootcamps de Organizações
 
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
-💻 [Elas Programam | Silvia Coelho](https://www.elasprogramam.com.br/) <br>
-💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
+💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+
+### Histórias de Mulheres Inspiradoras
+
+⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
 
 ### Livros e e-books
 
@@ -134,7 +138,6 @@ Leia o arquivo CONTRIBUTING.md
 
 <br>
 __<br>
-Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a><br>
-<a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
+Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a> | <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
 :octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
 :octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a><br>
