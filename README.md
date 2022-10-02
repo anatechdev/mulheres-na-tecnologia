@@ -34,11 +34,7 @@
 
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
-💻 [Curso de lógica de programação com python | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
-
-### Cursos de Instituições
-
-💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
+💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
 
 ### DEV Community (dev.to)
 
@@ -121,7 +117,7 @@
 ⭐ [GitHub por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
-⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
+⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
 ### Repositórios de Organizações
 
