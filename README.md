@@ -56,7 +56,7 @@
 💻 [eu progr{amo} | Programaria](https://www.programaria.org) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
-💻 [Google’s Women Techmakers](https://www.womentechmakers.com/)
+💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br)
 
 ### Repositórios de Organizações
