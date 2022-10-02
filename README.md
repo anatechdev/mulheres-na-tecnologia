@@ -14,13 +14,13 @@
 
 ### Repositórios de Desenvolvedoras
 
-⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
-⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
-⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
-⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
-⭐ [GitHub por engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
 ⭐ [21 dias de código - Desafio Rocketseat por laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
 ⭐ [100 dias de evolução dev por lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
+⭐ [Criando um currículo por engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
+⭐ [GitHub por engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
+⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli](https://github.com/morgannadev/mulherestecnologia) <br>
+⭐ [O que é o logicadelevs? por levxyca](https://github.com/levxyca/logicadelevs) <br>
+⭐ [Transchange por lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
 ### Mulheres Inspiradoras
 
