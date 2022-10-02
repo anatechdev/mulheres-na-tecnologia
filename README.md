@@ -92,6 +92,7 @@
 ### MeetUps
 
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
+💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
 
 ### Comunidades
 
