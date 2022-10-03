@@ -52,8 +52,10 @@
 💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br) <br>
 💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
+💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+
 
 ### Histórias de Mulheres Inspiradoras
 
