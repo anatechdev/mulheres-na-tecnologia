@@ -30,6 +30,7 @@
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
+💻 [WoMakersCode](https://womakerscode.org/) <br>
 
 ### Cursos de Desenvolvedoras
 
@@ -98,7 +99,6 @@
 ### Podcasts
 
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
-🎧 [Playlist Podcasts Tech para Devs no Spotify | Ana Maria Silva](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
 ### Posts Instagram
