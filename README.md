@@ -4,12 +4,14 @@
 
 ### Artigos Dev Community
 
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como eu faço para perceber a minha evolução? por Morganna Giovanelli for Feministech](https://dev.to/feministech/como-eu-faco-para-perceber-a-minha-evolucao-cob) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Intro ao GitHub Actions: Mostrando artigos no seu READ.me por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/github/intro-ao-github-actions-mostrando-artigos-no-seu-readme-5f4a) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Mulheres pioneiras na tecnologia](https://dev.to/feministech/mulheres-pioneiras-na-tecnologia-4a2o) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [[pt-BR] O mínimo que você precisa saber pra criar conteúdo como dev por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/feministech/o-minimo-que-voce-precisa-saber-pra-criar-conteudo-como-dev-a9) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
