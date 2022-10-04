@@ -61,6 +61,11 @@
 
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
 
+### Instituições e Organizações
+
+💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
+💻 [PrograMaria](https://www.programaria.org/) <br>
+
 ### Livros e e-books
 
 📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
