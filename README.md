@@ -23,6 +23,7 @@
 
 ### Canais no Youtube sobre Programação
 
+💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
 💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)
