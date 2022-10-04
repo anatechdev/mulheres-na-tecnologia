@@ -27,6 +27,7 @@
 
 ### Comunidades
 
+💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
 
@@ -56,7 +57,6 @@
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
-
 ### Histórias de Mulheres Inspiradoras
 
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
@@ -72,8 +72,9 @@
 
 ### MeetUps
 
-💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
-💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
+💻 [Cloud Girls](https://www.meetup.com/pt-BR/cloudgirls/) <br>
+💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/) <br>
+💻 [WoMakersCode Brasil](https://www.meetup.com/pt-BR/WoMakersCode/) <br>
 
 ### Mentorias
 
