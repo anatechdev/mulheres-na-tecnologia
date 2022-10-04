@@ -30,8 +30,10 @@
 
 ### Comunidades
 
+💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
+💻 [WoMakersCode](https://womakerscode.org/) <br>
 
 ### Cursos de Desenvolvedoras
 
@@ -59,10 +61,14 @@
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
-
 ### Histórias de Mulheres Inspiradoras
 
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
+
+### Instituições e Organizações
+
+💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
+💻 [PrograMaria](https://www.programaria.org/) <br>
 
 ### Livros e e-books
 
@@ -75,8 +81,9 @@
 
 ### MeetUps
 
-💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
-💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/?_cookie-check=vMfUvK5S00BG0xvI) <br>
+💻 [Cloud Girls](https://www.meetup.com/pt-BR/cloudgirls/) <br>
+💻 [Dev Java Girls](https://www.meetup.com/pt-BR/devs-java-girl/) <br>
+💻 [WoMakersCode Brasil](https://www.meetup.com/pt-BR/WoMakersCode/) <br>
 
 ### Mentorias
 
@@ -95,7 +102,6 @@
 ### Podcasts
 
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
-🎧 [Playlist Podcasts Tech para Devs no Spotify | Ana Maria Silva](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
 ### Posts Instagram
