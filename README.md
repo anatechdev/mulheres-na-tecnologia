@@ -26,7 +26,10 @@
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
-💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)
+💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
+💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured)<br>
+💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
+💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
 
 ### Comunidades
 
