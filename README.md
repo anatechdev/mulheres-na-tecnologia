@@ -24,11 +24,14 @@
 ### Canais no Youtube sobre Programação
 
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
+💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
+💻 [Loiane Groner](youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) <br>
 💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured)<br>
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
+💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
 
 ### Comunidades
