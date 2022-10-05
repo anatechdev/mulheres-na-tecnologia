@@ -30,6 +30,7 @@
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured)<br>
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
+💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
 
 ### Comunidades
 
@@ -106,6 +107,7 @@
 
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 
 ### Posts Instagram
 
