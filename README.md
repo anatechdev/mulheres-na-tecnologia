@@ -2,6 +2,10 @@
 
 ## Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
 
+`#hacktoberfest`
+
+<a href="https://github.com/anatechdev"><img src="https://www.anamaria.dev.br/github/mulheres-na-tecnologia.png" alt="capa do repositório Mulheres na Tecnologia" title="Repositório Mulheres na Tecnologia"></a>
+
 ### Artigos Dev Community
 
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo) <br>
