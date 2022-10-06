@@ -1,10 +1,10 @@
+<a href="https://github.com/anatechdev"><img src="https://www.anamaria.dev.br/github/mulheres-na-tecnologia.png" alt="capa do repositório Mulheres na Tecnologia" title="Repositório Mulheres na Tecnologia"></a>
+
 # Mulheres na Tecnologia
 
 ## Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
 
 `#hacktoberfest`
-
-<a href="https://github.com/anatechdev"><img src="https://www.anamaria.dev.br/github/mulheres-na-tecnologia.png" alt="capa do repositório Mulheres na Tecnologia" title="Repositório Mulheres na Tecnologia"></a>
 
 ### Artigos Dev Community
 
