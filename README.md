@@ -40,6 +40,7 @@
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
+💻 [SysAdminas](https://sysadminas.com.br/)</br>
 
 ### Cursos de Desenvolvedoras
 
@@ -80,6 +81,7 @@
 
 📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
 📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
+📘 [Ebook Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://leanpub.com/guia-da-computacao-em-nuvem/)</br>
 
 ### Materiais de Estudo
 
