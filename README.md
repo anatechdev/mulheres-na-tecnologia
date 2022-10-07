@@ -41,6 +41,7 @@
 ### Comunidades
 
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
+💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
