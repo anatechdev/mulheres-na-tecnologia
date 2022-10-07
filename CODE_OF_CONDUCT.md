@@ -1,4 +1,4 @@
-# Código de Conduta do Repositório Mulheres na Tecnologia 
+# Código de Conduta do Repositório Mulheres na Tecnologia
 
 ## Sobre
 
@@ -12,6 +12,14 @@ O propósito deste repositório é dar visibilidade para o trabalho delas e prop
 
 Serão aceitas e aprovadas somente contribuições de conteúdos produzidos por mulheres e pessoas que se identificam com o gênero feminino.
 
-### Ana Maria | Tech e Dev
-[www.anamaria.dev.br](https://www.anamaria.dev.br/)
+### Recomendações
 
+Realize contribuições indicando conteúdos que tenham sido autorizados por mulheres a serem disponibilizados com a comunidade tech.
+
+### :warning:
+
+Não serão aceitos conteúdos ofensivos que não respeitem a comunidade de mulheres tech.
+
+### Ana Maria | Tech e Dev
+
+[www.anamaria.dev.br](https://www.anamaria.dev.br/)
