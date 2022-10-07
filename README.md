@@ -105,9 +105,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Medium
 
 💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
-💻 [Karina Tronkos](https://medium.com/@karinatronkos)
-💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho)
-💻 [STEM para as Minas](https://stemparaminas.medium.com/)
+💻 [Karina Tronkos](https://medium.com/@karinatronkos) <br>
+💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho) <br>
+💻 [STEM para as Minas](https://stemparaminas.medium.com/) <br>
 
 ### MeetUps
 
