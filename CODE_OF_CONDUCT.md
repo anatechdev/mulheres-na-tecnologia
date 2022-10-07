@@ -12,11 +12,11 @@ O propósito deste repositório é dar visibilidade para o trabalho delas e prop
 
 Serão aceitas e aprovadas somente contribuições de conteúdos produzidos por mulheres e pessoas que se identificam com o gênero feminino.
 
-### Recomendações
+## Recomendações
 
 Realize contribuições indicando conteúdos que tenham sido autorizados por mulheres a serem disponibilizados com a comunidade tech.
 
-### :warning:
+## :warning:
 
 Não serão aceitos conteúdos ofensivos que não respeitem a comunidade de mulheres tech.
 

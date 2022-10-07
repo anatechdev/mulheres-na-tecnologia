@@ -10,7 +10,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Artigos
 
-[Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
+💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
 
 ### Artigos Dev Community
 
@@ -101,6 +101,13 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Materiais de Estudo
 
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
+
+### Medium
+
+💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
+💻 [Karina Tronkos](https://medium.com/@karinatronkos)
+💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho)
+💻 [STEM para as Minas](https://stemparaminas.medium.com/)
 
 ### MeetUps
 
