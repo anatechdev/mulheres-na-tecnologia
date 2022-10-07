@@ -2,9 +2,15 @@
 
 # Mulheres na Tecnologia
 
-## Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
+## Sobre
 
-`#hacktoberfest`
+Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
+
+`Hello world, Mulheres da Tecnologia!`
+
+### Artigos
+
+[Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
 
 ### Artigos Dev Community
 
@@ -48,8 +54,8 @@
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
+💻 [SysAdminas](https://sysadminas.com.br/) </br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
-💻 [SysAdminas](https://sysadminas.com.br/)</br>
 
 ### Cursos de Desenvolvedoras
 
@@ -148,7 +154,6 @@
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
 ⭐ [Livros e conteúdos sobre tecnologia e sociedade| carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) <br>
-
 
 ### Repositórios de Organizações
 
