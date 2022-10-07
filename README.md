@@ -25,6 +25,10 @@
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
 
+### Blogs
+
+💻 [Valchan](https://valchan.com.br/) <br>
+
 ### Canais no Youtube sobre Programação
 
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
