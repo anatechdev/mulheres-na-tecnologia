@@ -33,6 +33,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Blogs
 
+💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
 
 ### Canais no Youtube sobre Programação
@@ -54,9 +55,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
-💻 [SysAdminas](https://sysadminas.com.br/) </br>
-💻 [WoMakersCode](https://womakerscode.org/) <br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
+💻 [SysAdminas](https://sysadminas.com.br/) <br>
+💻 [WoMakersCode](https://womakerscode.org/) <br>
 
 ### Cursos de Desenvolvedoras
 
