@@ -56,6 +56,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 He4rt Delas por He4rt Developers <br>
 💻 [SysAdminas](https://sysadminas.com.br/) </br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
+💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 
 ### Cursos de Desenvolvedoras
 
