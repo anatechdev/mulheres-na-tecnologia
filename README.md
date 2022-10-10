@@ -40,6 +40,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
+💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
 💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
@@ -51,10 +52,12 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Comunidades
 
+💻 [AI Girls](https://aigirlsbr.github.io/) <br>
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 He4rt Delas por He4rt Developers <br>
+💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
@@ -108,6 +111,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
 💻 [Karina Tronkos](https://medium.com/@karinatronkos) <br>
+💻 [RLadies BH](https://medium.com/rladiesbh) <br>
 💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho) <br>
 💻 [STEM para as Minas](https://stemparaminas.medium.com/) <br>
 
