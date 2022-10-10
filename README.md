@@ -60,7 +60,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
-💻 [PyLadies Brasil](https://sysadminas.com.br/) <br>
+💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
 
 ### Cursos de Desenvolvedoras
