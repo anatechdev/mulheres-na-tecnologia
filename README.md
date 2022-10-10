@@ -40,6 +40,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
+💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
 💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
