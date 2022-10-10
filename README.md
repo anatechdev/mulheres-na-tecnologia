@@ -49,6 +49,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
 💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
 💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
+💻 [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
+💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda)<br>
 
 ### Comunidades
 
