@@ -90,6 +90,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio)
 
 ### Histórias de Mulheres Inspiradoras
 
