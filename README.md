@@ -58,12 +58,13 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
-💻 He4rt Delas por He4rt Developers <br>
+💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
+💻 [Comunidade Ballerini](https://discord.com/invite/ballerini)
 
 ### Cursos de Desenvolvedoras
 
@@ -90,6 +91,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio)
 
 ### Histórias de Mulheres Inspiradoras
 
@@ -100,6 +102,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
 💻 [PrograMaria](https://www.programaria.org/) <br>
 💻 [Meninas Digitais](https://meninas.sbc.org.br/) <br>
+💻 [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
 
 ### Livros e e-books
 
