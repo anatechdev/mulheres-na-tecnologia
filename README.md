@@ -100,6 +100,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
 💻 [PrograMaria](https://www.programaria.org/) <br>
 💻 [Meninas Digitais](https://meninas.sbc.org.br/) <br>
+💻 [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
 
 ### Livros e e-books
 
