@@ -58,7 +58,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
-💻 He4rt Delas por He4rt Developers <br>
+💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
