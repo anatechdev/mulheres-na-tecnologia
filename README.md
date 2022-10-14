@@ -64,7 +64,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
-💻 [Comunidade Ballerini](https://discord.com/invite/ballerini)
+💻 [Comunidade Ballerini](https://discord.com/invite/ballerini)</br>
+💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
+💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
 
 ### Cursos de Desenvolvedoras
 
