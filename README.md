@@ -11,6 +11,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Artigos
 
 💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
+💻 [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/)
 
 ### Artigos Dev Community
 
@@ -36,6 +37,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
+💻 [Jakeliny Gracielly](https://jakeliny.com.br/) <br>
 
 ### Canais no Youtube sobre Programação
 
@@ -52,6 +54,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
 💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
 💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
+💻 [Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)<br>
 
 ### Comunidades
 
@@ -116,6 +119,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Materiais de Estudo
 
 💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
+💻 [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e)
 
 ### Medium
 
@@ -134,6 +138,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Mentorias
 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
+💻 [Marmitech: mentoria gratuita sobre carreira profissional para devs](https://www.twitch.tv/jakeliny/schedule) <br>
 
 ### Oportunidades para Mulheres
 
