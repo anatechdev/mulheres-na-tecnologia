@@ -25,6 +25,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [[pt-BR] O mínimo que você precisa saber pra criar conteúdo como dev por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/feministech/o-minimo-que-voce-precisa-saber-pra-criar-conteudo-como-dev-a9) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Transição de Carreira por Larissa de Oliveira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c?signin=true)
 
 ### Artigos Revelo Community
 
@@ -39,9 +40,11 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Canais no Youtube sobre Programação
 
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
+💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda)<br>
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
 💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
 💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
+💻 [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
 💻 [Loiane Groner](youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) <br>
@@ -49,24 +52,22 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
 💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
 💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
-💻 [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
-💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda)<br>
 
 ### Comunidades
 
 💻 [AI Girls](https://aigirlsbr.github.io/) <br>
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
+💻 [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)</br>
+💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
+💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
+💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
-💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
-💻 [Comunidade Ballerini](https://discord.com/invite/ballerini)</br>
-💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
-💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
 
 ### Cursos de Desenvolvedoras
 
@@ -89,11 +90,11 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
 💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br) <br>
-💻 [Mais Mulheres em Tech | WoMakers Code](https://maismulheres.tech/) <br>
+💻 [Mais Mulheres em Tech | WoMakers Code](https://www.maismulheres.tech/) <br>
+💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio) <br>
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
-💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio)
 
 ### Histórias de Mulheres Inspiradoras
 
@@ -102,9 +103,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Instituições e Organizações
 
 💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
-💻 [PrograMaria](https://www.programaria.org/) <br>
 💻 [Meninas Digitais](https://meninas.sbc.org.br/) <br>
 💻 [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
+💻 [PrograMaria](https://www.programaria.org/) <br>
 
 ### Livros e e-books
 
@@ -120,8 +121,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
 💻 [Karina Tronkos](https://medium.com/@karinatronkos) <br>
-💻 [RLadies BH](https://medium.com/rladiesbh) <br>
 💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho) <br>
+💻 [RLadies BH](https://medium.com/rladiesbh) <br>
 💻 [STEM para as Minas](https://stemparaminas.medium.com/) <br>
 
 ### MeetUps
@@ -148,8 +149,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 🎧 [Ciência Pod](https://www.stemparaminas.com/podcast) <br>
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
-🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
+🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
 ### Posts Instagram
 
@@ -173,10 +174,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ⭐ [Criando um currículo por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
 ⭐ [CSS_Tools por Leticia Coelho e Ana Maria | engenheiracoelho e anamariasilva](https://github.com/engenheiracoelho/CSS_tools) <br>
 ⭐ [GitHub por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
+⭐ [Livros e conteúdos sobre tecnologia e sociedade| carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) <br>
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
-⭐ [Livros e conteúdos sobre tecnologia e sociedade| carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) <br>
 
 ### Repositórios de Organizações
 
