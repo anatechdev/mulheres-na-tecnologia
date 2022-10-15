@@ -14,7 +14,7 @@ Serão aceitas e aprovadas somente contribuições de conteúdos produzidos por 
 
 ## Recomendações
 
-Realize contribuições indicando conteúdos que tenham sido autorizados por mulheres a serem disponibilizados com a comunidade tech.
+Realize contribuições indicando conteúdos que tenham sido autorizados por mulheres a serem disponibilizados com a comunidade tech de forma pública.
 
 ## :warning:
 
