@@ -35,9 +35,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Blogs
 
+💻 [Jakeliny Gracielly](https://jakeliny.com.br/) <br>
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
-💻 [Jakeliny Gracielly](https://jakeliny.com.br/) <br>
 
 ### Canais no Youtube sobre Programação
 
@@ -47,14 +47,14 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
 💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
 💻 [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
+💻 [Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)<br>
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
 💻 [Loiane Groner](youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) <br>
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured)<br>
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
-💻 [quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
+💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
 💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
-💻 [Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)<br>
 
 ### Comunidades
 
@@ -65,6 +65,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
+💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
@@ -74,9 +75,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Cursos de Desenvolvedoras
 
+💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
-💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
 
 ### DEV Community (dev.to)
 
@@ -87,6 +88,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 💻 [PrograMaria Summit](https://vamosjuntes.programaria.org/summit2022) <br>
+💻 [WoMakersCode Brasil](https://www.meetup.com/pt-BR/womakerscode/) <br>
 
 ### Formações, Cursos e Bootcamps de Organizações
 
@@ -98,6 +100,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+
 
 ### Histórias de Mulheres Inspiradoras
 
@@ -115,6 +118,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 📘 [E-book Soft Skills por Kamila Santos e FRONTIN](https://conteudo.frontinsampa.com.br/ebook-soft-skills) <br>
 📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
 📘 [Ebook Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://leanpub.com/guia-da-computacao-em-nuvem/)</br>
+📘 [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) <br>
 
 ### Materiais de Estudo
 
@@ -125,7 +129,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
 💻 [Karina Tronkos](https://medium.com/@karinatronkos) <br>
+💻 [Luizalabs](https://medium.com/luizalabs) <br>
 💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho) <br>
+💻 [Mulheres de Produto](https://medium.com/mulheres-de-produto) <br>
 💻 [RLadies BH](https://medium.com/rladiesbh) <br>
 💻 [STEM para as Minas](https://stemparaminas.medium.com/) <br>
 
@@ -138,7 +144,12 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Mentorias
 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
+💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform)<br>
 💻 [Marmitech: mentoria gratuita sobre carreira profissional para devs](https://www.twitch.tv/jakeliny/schedule) <br>
+
+### ONGS
+💻 [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)<br>
+💻 [{reprograma}](https://reprograma.com.br)<br>
 
 ### Oportunidades para Mulheres
 
