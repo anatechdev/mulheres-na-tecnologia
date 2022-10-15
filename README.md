@@ -10,8 +10,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Artigos
 
-💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
-💻 [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/)
+💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
+💻 [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
 
 ### Artigos Dev Community
 
@@ -42,7 +42,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Canais no Youtube sobre Programação
 
 💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
-💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda)<br>
+💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda) <br>
 💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
 💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
 💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
@@ -51,10 +51,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
 💻 [Loiane Groner](youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) <br>
-💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured)<br>
-💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)<br>
-💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g)<br>
-💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini)<br>
+💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) <br>
+💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured) <br>
+💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g) <br>
+💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini) <br>
 
 ### Comunidades
 
@@ -88,7 +88,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 💻 [PrograMaria Summit](https://vamosjuntes.programaria.org/summit2022) <br>
-💻 [WoMakersCode Brasil](https://www.meetup.com/pt-BR/womakerscode/) <br>
 
 ### Formações, Cursos e Bootcamps de Organizações
 
@@ -100,7 +99,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
 💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
-
 
 ### Histórias de Mulheres Inspiradoras
 
@@ -122,8 +120,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Materiais de Estudo
 
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html)
-💻 [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e)
+💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
+💻 [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e) <br>
 
 ### Medium
 
@@ -144,12 +142,13 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Mentorias
 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
-💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform)<br>
+💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform) <br>
 💻 [Marmitech: mentoria gratuita sobre carreira profissional para devs](https://www.twitch.tv/jakeliny/schedule) <br>
 
-### ONGS
+### ONGs
+
 💻 [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)<br>
-💻 [{reprograma}](https://reprograma.com.br)<br>
+💻 [{reprograma}](https://reprograma.com.br) <br>
 
 ### Oportunidades para Mulheres
 

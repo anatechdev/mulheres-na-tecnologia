@@ -1,13 +1,6 @@
 # Contribuições
 
-Envie Pull requests para manter o repositório colaborativo atualizado referente a conteúdos produzidos por mulheres na tecnologia que possam ser compartilhados com a comunidade tech: <br>
-
-- Artigos
-- Comunidades
-- Cursos e Formações
-- Livros
-- Palestras
-- Repositórios
+Envie Pull requests para manter o repositório colaborativo atualizado referente a conteúdos de tecnologia produzidos por mulheres e pessoas que se identificam com o gênero feminino, que possam ser compartilhados com a comunidade tech: <br>
 
 :warning: Somente serão aceitos conteúdos produzidos por mulheres e pessoas que se identificam com o gênero feminino.
 
