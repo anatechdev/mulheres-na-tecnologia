@@ -154,6 +154,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Dupla Tech](https://duplatech.com/) <br>
 💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br>
+💻 [Estrelas Aprendiz](https://www.zup.com.br/zup-academy/estrelas-aprendiz) <br>
 
 ### Palestras
 
