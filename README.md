@@ -192,6 +192,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ⭐ [GitHub por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
 ⭐ [Livros e conteúdos sobre tecnologia e sociedade| carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) <br>
 ⭐ [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
+⭐ [Por onde começar? por Letícia Silva | leticiadasilva](https://github.com/leticiadasilva/por-onde-comecar) <br>
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
 
