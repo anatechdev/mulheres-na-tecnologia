@@ -32,6 +32,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
+💻 [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/) <br>
 
 ### Blogs
 
@@ -65,6 +66,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
 💻 [Feministech](https://feministech.github.io/) <br>
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
+💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
@@ -144,6 +146,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
 💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform) <br>
 💻 [Marmitech: mentoria gratuita sobre carreira profissional para devs](https://www.twitch.tv/jakeliny/schedule) <br>
+💻 [Jessica Ferrari: Metoria gratuita para iniciar a palestrar](https://www.instagram.com/jessica7ferrari_/) <br>
 
 ### ONGs
 
