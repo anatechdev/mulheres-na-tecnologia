@@ -21,7 +21,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [GitHub Student: conseguindo ofertas e benefícios dos parceiros GitHub  por Leticia 'levxyca'](https://dev.to/feministech/github-student-conseguindo-ofertas-e-beneficios-dos-parceiros-github-1c6n) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [GitHub Student: conseguindo ofertas e benefícios dos parceiros GitHub por Leticia 'levxyca'](https://dev.to/feministech/github-student-conseguindo-ofertas-e-beneficios-dos-parceiros-github-1c6n) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Intro ao GitHub Actions: Mostrando artigos no seu READ.me por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/github/intro-ao-github-actions-mostrando-artigos-no-seu-readme-5f4a) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Mulheres pioneiras na tecnologia](https://dev.to/feministech/mulheres-pioneiras-na-tecnologia-4a2o) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
@@ -41,22 +41,23 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
 
-### Canais no Youtube sobre Programação
+### Canais no Youtube
 
-💻 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/videos)<br>
+💻 [Attekita Dev](https://www.youtube.com/@attekitadev)<br>
 💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda) <br>
-💻 [Conecta Elas](https://www.youtube.com/c/conectaelas) <br>
+💻 [Conecta Elas](https://www.youtube.com/@conectaelas) <br>
 💻 [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
-💻 [dev_steph](https://www.youtube.com/channel/UCpoqCol_xKTzr8IBNMauGsw) <br>
+💻 [dev_steph](https://www.youtube.com/@dev_steph) <br>
 💻 [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
 💻 [Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)<br>
-💻 [Kamila code](https://www.youtube.com/c/Kamilacode) <br>
-💻 [Lais Frigerio](https://www.youtube.com/user/12345678912345678432) <br>
-💻 [Loiane Groner](youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg) <br>
+💻 [Kamila code](https://www.youtube.com/@Kamilacode) <br>
+💻 [Lais Frigerio](https://www.youtube.com/@laisfrigerio) <br>
+💻 [Natália F. Dev](https://www.youtube.com/@NataliaFDev) <br>
+💻 [Loiane Groner](https://www.youtube.com/@loianegroner) <br>
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) <br>
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured) <br>
-💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/channel/UCGaPf6u8sp-yd5BvOS3du0g) <br>
-💻 [Rafaella Ballerini](https://www.youtube.com/c/rafaellaballerini) <br>
+💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev) <br>
+💻 [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) <br>
 
 ### Comunidades
 
@@ -65,7 +66,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
 💻 [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)</br>
 💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
-💻 [Feministech](https://feministech.github.io/) <br>
+💻 [Feministech](https://feministech.com.br/) <br>
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
 💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
@@ -168,6 +169,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Podcasts
 
 🎧 [Ciência Pod](https://www.stemparaminas.com/podcast) <br>
+🎧 [Feministech](https://podcasters.spotify.com/pod/show/feministech) <br>
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
