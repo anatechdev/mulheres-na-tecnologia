@@ -173,6 +173,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+🎧 [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102) <br>
 
 ### Posts Instagram
 
