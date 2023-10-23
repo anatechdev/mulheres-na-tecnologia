@@ -70,6 +70,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
 💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
+💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
