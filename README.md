@@ -10,9 +10,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Artigos
 
-💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
-💻 [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
-💻 [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
+:memo: [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
+:memo: [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
+:memo: [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
+[Artigos PrograMaria](https://www.programaria.org/category/artigos/)
 
 ### Artigos Dev Community
 
@@ -33,9 +34,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Artigos Revelo Community
 
-💻 [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
-💻 [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
-💻 [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/) <br>
+:memo: [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
+:memo: [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
+:memo: [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/) <br>
 
 ### Blogs
 
@@ -104,9 +105,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Formações, Cursos e Bootcamps de Organizações
 
 💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
-💻 [Curso eu progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
+💻 [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
 💻 [Laboratória](https://www.laboratoria.la/br) <br>
-💻 [Mais Mulheres em Tech | WoMakers Code](https://www.maismulheres.tech/) <br>
+💻 [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/) <br>
 💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio) <br>
 💻 [Minas Programam](https://minasprogramam.com/) <br>
 💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
@@ -122,10 +123,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Instituições e Organizações
 
-💻 [Brazilians in Tech](https://braziliansintech.com/) <br>
-💻 [Meninas Digitais](https://meninas.sbc.org.br/) <br>
-💻 [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
-💻 [PrograMaria](https://www.programaria.org/) <br>
+:computer: [Brazilians in Tech](https://braziliansintech.com/) <br>
+:computer: [Meninas Digitais](https://meninas.sbc.org.br/) <br>
+:computer: [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
+:computer: [PrograMaria](https://www.programaria.org/) <br>
 
 ### Livros e e-books
 
@@ -136,7 +137,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Materiais de Estudo
 
-💻 [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e) <br>
+:pushpin: [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e) <br>
 
 ### Medium
 
@@ -207,14 +208,14 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ⭐ [Por onde começar? por Letícia Silva | leticiadasilva](https://github.com/leticiadasilva/por-onde-comecar) <br>
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
-⭐ [Call For Papers | Call 4 Papers | CFP | C4P](https://github.com/laisfrigerio/call-for-papers) <br>
+⭐ [Call For Papers | Call 4 Papers | CFP | C4P por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/call-for-papers) <br>
 
 ### Repositórios de Organizações
 
-💻 [AnitaB.org Open Source](https://github.com/anitab-org) <br>
-💻 [Minas Programam](https://github.com/minasprogramam) <br>
-💻 [PrograMaria](https://github.com/programaria) <br>
-💻 [WoMakersCode](https://github.com/WoMakersCode) <br>
+:computer: [AnitaB.org Open Source](https://github.com/anitab-org) <br>
+:computer: [Minas Programam](https://github.com/minasprogramam) <br>
+:computer: [PrograMaria](https://github.com/programaria) <br>
+:computer: [WoMakersCode](https://github.com/WoMakersCode) <br>
 
 <br>
 
@@ -224,6 +225,7 @@ Leia o arquivo CONTRIBUTING.md
 
 <br>
 __<br>
-Ana Maria Silva | <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a> | <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
+Ana Maria Silva | @ana.tech.dev <br>
+:globe_with_meridians: <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a> | <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
 :octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
 :octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a><br>
