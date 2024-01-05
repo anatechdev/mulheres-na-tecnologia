@@ -12,6 +12,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
 💻 [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
+💻 [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
 
 ### Artigos Dev Community
 
@@ -72,12 +73,15 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
 💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
+💻 [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
+💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
+💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
 
 ### Cursos
 
@@ -180,6 +184,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
+🎧 [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102) <br>
 
 ### Repositórios de Comunidades
 
