@@ -10,10 +10,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Artigos
 
+:memo: [Artigos PrograMaria](https://www.programaria.org/category/artigos/) <br>
 :memo: [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
 :memo: [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
 :memo: [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice) <br>
-:memo: [Artigos PrograMaria](https://www.programaria.org/category/artigos/)
 
 ### Artigos Dev Community
 
@@ -31,7 +31,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Transição de Carreira por Larissa de Oliveira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c?signin=true) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0) <br>
-[Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 
 ### Artigos Revelo Community
 
