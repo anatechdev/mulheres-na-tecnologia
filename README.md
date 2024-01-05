@@ -28,6 +28,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [[pt-BR] O mínimo que você precisa saber pra criar conteúdo como dev por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/feministech/o-minimo-que-voce-precisa-saber-pra-criar-conteudo-como-dev-a9) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Transição de Carreira por Larissa de Oliveira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c?signin=true)
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0)
 
 ### Artigos Revelo Community
 
@@ -52,6 +53,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Jakeliny Gracielly](https://www.youtube.com/c/JakelinyGracielly)<br>
 💻 [Kamila code](https://www.youtube.com/@Kamilacode) <br>
 💻 [Lais Frigerio](https://www.youtube.com/@laisfrigerio) <br>
+💻 [Larissa de Oliveira - Tech Community](https://www.youtube.com/@larideoliiveira) <br>
 💻 [Natália F. Dev](https://www.youtube.com/@NataliaFDev) <br>
 💻 [Loiane Groner](https://www.youtube.com/@loianegroner) <br>
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) <br>
@@ -77,8 +79,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
 
-### Cursos de Desenvolvedoras
+### Cursos
 
+💻 [Curso Eu Progr{amo} PrograMaria](https://www.programaria.org/cursos-programaria/) <br>
 💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
@@ -90,8 +93,9 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Eventos
 
-💻 [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
-💻 [PrograMaria Summit](https://vamosjuntes.programaria.org/summit2022) <br>
+:date: [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
+:date: [PrograMaria Summit](https://www.programaria.org/programaria-summit-2023/) <br>
+:date: [SummitFlix | PrograMaria](https://programaria.org/summitflix?_gl=1*l80sps*_ga*MTUxMjMwMzU1My4xNzAzNzIwMzA0*_ga_CWF88KQ9ZH*MTcwNDQ5NTI1Ny4xMS4xLjE3MDQ0OTYwMjcuNjAuMC4w) <br>
 
 ### Formações, Cursos e Bootcamps de Organizações
 
@@ -107,6 +111,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Histórias de Mulheres Inspiradoras
 
 ⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
+
+### Instagram
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/ana.tech.dev/p/C1sZTrsApEH/) <br>
 
 ### Instituições e Organizações
 
@@ -124,7 +132,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Materiais de Estudo
 
-💻 [Cronogramas de Estudo Conecta Elas](https://www.anamaria.dev.br/parcerias/conecta_elas/conecta_elas.html) <br>
 💻 [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e) <br>
 
 ### Medium
@@ -174,12 +181,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 
-### Posts Instagram
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Comunidades Tech para Mulheres](https://www.instagram.com/p/ChF44dNjqEV/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Guia com 15 publicações](https://www.instagram.com/ana.tech.dev/guide/mulheres-tech/17876754038533045/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/p/CjLsy0OO-LV/) <br>
-
 ### Repositórios de Comunidades
 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
@@ -201,6 +202,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ⭐ [Por onde começar? por Letícia Silva | leticiadasilva](https://github.com/leticiadasilva/por-onde-comecar) <br>
 ⭐ [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
 ⭐ [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
+⭐ [Call For Papers | Call 4 Papers | CFP | C4P](https://github.com/laisfrigerio/call-for-papers) <br>
 
 ### Repositórios de Organizações
 
