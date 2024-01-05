@@ -84,7 +84,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
 💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
-💻 [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/) <br>
 
 ### Cursos
 
@@ -187,6 +186,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
 🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
 🎧 [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102) <br>
+
+### Programas
+
+💻 [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/) <br>
 
 ### Repositórios de Comunidades
 
