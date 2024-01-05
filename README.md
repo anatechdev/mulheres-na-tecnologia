@@ -12,8 +12,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 :memo: [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
 :memo: [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
-:memo: [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
-[Artigos PrograMaria](https://www.programaria.org/category/artigos/)
+:memo: [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice) <br>
+:memo: [Artigos PrograMaria](https://www.programaria.org/category/artigos/)
 
 ### Artigos Dev Community
 
