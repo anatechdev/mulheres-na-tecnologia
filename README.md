@@ -84,6 +84,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
 💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
+💻 [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/) <br>
 
 ### Cursos
 
@@ -99,7 +100,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Eventos
 
-:date: [Google’s Women Techmakers](https://www.womentechmakers.com/) <br>
 :date: [PrograMaria Summit](https://www.programaria.org/programaria-summit-2023/) <br>
 :date: [SummitFlix | PrograMaria](https://programaria.org/summitflix?_gl=1*l80sps*_ga*MTUxMjMwMzU1My4xNzAzNzIwMzA0*_ga_CWF88KQ9ZH*MTcwNDQ5NTI1Ny4xMS4xLjE3MDQ0OTYwMjcuNjAuMC4w) <br>
 
