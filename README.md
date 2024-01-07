@@ -123,7 +123,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Instituições e Organizações
 
-:computer: [Brazilians in Tech](https://braziliansintech.com/) <br>
+:computer: [Brazilians in Tech](https://www.novo.braziliansintech.com/) <br>
 :computer: [Meninas Digitais](https://meninas.sbc.org.br/) <br>
 :computer: [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
 :computer: [PrograMaria](https://www.programaria.org/) <br>
@@ -200,7 +200,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
 💻 [Start Coding](https://github.com/startcodingstaff) <br>
 
-### Repositórios de Desenvolvedoras
+### Repositórios de Pessoas Desenvolvedoras
 
 ⭐ [21 dias de código - Desafio Rocketseat por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
 ⭐ [100 dias de evolução dev por Lyssa Cavalcanti Backschat | lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
