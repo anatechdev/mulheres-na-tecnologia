@@ -32,6 +32,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 :memo: [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 :memo: [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
 :memo: [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/) <br>
+:memo: [PrograMaria Encontros](https://www.programaria.org/category/programaria-encontros/)
 
 ### Blogs
 
@@ -71,6 +72,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
 💻 [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
 💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
+💻 [PrograMaria](https://www.stemparaminas.com/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
