@@ -72,7 +72,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
 💻 [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
 💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
-💻 [PrograMaria](https://www.stemparaminas.com/) <br>
+💻 [PrograMaria](https://www.programaria.org/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
