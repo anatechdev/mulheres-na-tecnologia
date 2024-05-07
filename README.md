@@ -36,6 +36,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Blogs
 
+💻 [Erika Heidi](https://eheidi.dev/) <br>
 💻 [Jakeliny Gracielly](https://jakeliny.com.br/) <br>
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
@@ -55,6 +56,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Natália F. Dev](https://www.youtube.com/@NataliaFDev) <br>
 💻 [Loiane Groner](https://www.youtube.com/@loianegroner) <br>
 💻 [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) <br>
+💻 [Miriam Almeida](https://www.youtube.com/@MiriamTechCod/featured) <br>
 💻 [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured) <br>
 💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev) <br>
 💻 [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) <br>
@@ -68,10 +70,12 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
 💻 [Feministech](https://feministech.com.br/) <br>
 💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
+💻 [Iniciativa She Lovelace](https://www.linkedin.com/company/iniciativashelovelace/) <br>
 💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
 💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
 💻 [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
 💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
+💻 [PHPWomenBR](https://phpwomen.org.br/) <br>
 💻 [PrograMaria](https://www.programaria.org/) <br>
 💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
 💻 [RLadies BH](https://rladiesbh.com.br/) <br>
@@ -86,12 +90,14 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/) <br>
 💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
+💻 [Curso completo de Modelagem de Banco de Dados na prática](https://www.udemy.com/course/curso-completo-de-modelagem-de-banco-de-dados-na-pratica/) <br>
 💻 [Cursos Loiane Groner](https://loiane.training/) <br>
 💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
 
 ### DEV Community (dev.to)
 
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Feministech](https://dev.to/feministech) <br>
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [PHPWomenBR](https://dev.to/phpwomenbr) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [WoMakersCode](https://dev.to/womakerscode) <br>
 
 ### Eventos
@@ -117,6 +123,8 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Instagram
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/ana.tech.dev/p/C1sZTrsApEH/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativa She Lovelace](https://www.instagram.com/iniciativa.lovelace/) <br>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [PHPWomenBR](https://www.instagram.com/phpwomenbr/) <br>
 
 ### Instituições e Organizações
 
@@ -194,6 +202,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
 💻 [Feministech](https://github.com/feministech) <br>
 💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br>
+💻 [PHPWomenBR](https://github.com/phpwomenbr) <br>
 💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
 💻 [Start Coding](https://github.com/startcodingstaff) <br>
 
